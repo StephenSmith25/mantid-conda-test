@@ -1,0 +1,8 @@
+name: framework-test
+
+channels:
+  - conda-forge
+  - stephensmith25
+
+dependencies:
+  - mantid-framework
