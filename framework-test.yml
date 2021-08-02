@@ -6,3 +6,4 @@ channels:
 
 dependencies:
   - mantid-framework
+  - cxx-compiler
